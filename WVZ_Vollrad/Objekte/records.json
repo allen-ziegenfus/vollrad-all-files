@@ -4,15 +4,17 @@
         "Titel": "Leuchtende Vorbilder, Albert Schweizer",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder + Luminogramm",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder + Luminogramm",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Elisabeth HaindlFoto",
+        "Standort": "Privatbesitz: Elisabeth Haindl",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1880.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1880.gif.webp"
             }
         ]
     },
@@ -21,16 +23,18 @@
         "Titel": "Schattenprojektion in Metall",
         "Jahr": "1975",
         "Werkgruppe": "Objekt",
-        "Material": "Blech (bearbeitet)Ma\u0156e9,5 x 17 cm",
-        "Signatur": "links seitlichAnzahlEinzelobjekt",
+        "Material": "Blech (bearbeitet)",
+        "Ma\u00dfe": "9,5 x 17 cm",
+        "Signatur": "links seitlich",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1857.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1857.gif.webp"
             }
         ]
     },
@@ -39,14 +43,16 @@
         "Titel": "Eckbrett",
         "Jahr": "1998",
         "Werkgruppe": "Objekt",
-        "Material": "3 Glaskappen mit Portraits, Acrylglas, 1 Pinsel und 1 ZahnstocherMa\u0156eMa\u00dfe des Brettes aus Acrylglas 3 x 20 x 20 cm",
-        "Signatur": "unten linksAnzahlEinzelobjektBeschreibung  -",
+        "Material": "3 Glaskappen mit Portraits, Acrylglas, 1 Pinsel und 1 Zahnstocher",
+        "Ma\u00dfe": "Ma\u00dfe des Brettes aus Acrylglas 3 x 20 x 20 cm",
+        "Signatur": "unten links",
+        "Anzahl": "EinzelobjektBeschreibung  -",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Opel-Villen, beziehungsweise...,  R\u00fcsselsheim 1998 und eine Galerie in Saarbr\u00fccken, die das Objekt trotz Aufforderung nicht zur\u00fcckgibtBibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1472.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1472.gif.webp"
             }
         ]
     },
@@ -55,16 +61,18 @@
         "Titel": "Ersatzkatalog",
         "Jahr": "1985",
         "Werkgruppe": "Objekt-Buch",
-        "Material": "Collage, bestehend aus: Fotografien und Polaroids. Tapetenbuch (\"Schick wohnen\"), mit Stempeln (Ersatzkunst-Stempel), Servietten, Gummib\u00e4rchen, Filmstreifen und PostkartenMa\u0156e49 x 38,5 x 4 cm",
-        "Signatur": "innen, unten rechtsAnzahlEinzelobjekt",
+        "Material": "Collage, bestehend aus: Fotografien und Polaroids. Tapetenbuch (\"Schick wohnen\"), mit Stempeln (Ersatzkunst-Stempel), Servietten, Gummib\u00e4rchen, Filmstreifen und Postkarten",
+        "Ma\u00dfe": "49 x 38,5 x 4 cm",
+        "Signatur": "innen, unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Allgemeine Frankfurter Ersatzkunst, Frankfurt/M. 1985",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1473.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1473.gif.webp"
             }
         ]
     },
@@ -72,14 +80,16 @@
         "Inv. Nr.": "OB1856",
         "Titel": "Schwanenei",
         "Jahr": "1990Werk-gruppeObjekt",
-        "Material": "Portraitprojektion mit einer keinen Gl\u00fchbirne auf ein SchwaneneneiMa\u0156eDurchmesser: 12 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Portraitprojektion mit einer keinen Gl\u00fchbirne auf ein Schwanenenei",
+        "Ma\u00dfe": "Durchmesser: 12 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "schlecht",
         "Standort": "Atelier",
         "Ausstellung": "Kassel",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1856.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1856.gif.webp"
             }
         ]
     },
@@ -88,13 +98,15 @@
         "Titel": "Leuchtende Vorbilder J. S. Bach",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder + Luminogramm",
-        "Standort": "Privatbesitz: Reinhard KutscherFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder + Luminogramm",
+        "Standort": "Privatbesitz: Reinhard Kutscher",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1881.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1881.gif.webp"
             }
         ]
     },
@@ -103,13 +115,15 @@
         "Titel": "Leuchtende Vorbilder Eva Hesse",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: RattemeyerFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Rattemeyer",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1883.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1883.gif.webp"
             }
         ]
     },
@@ -118,16 +132,18 @@
         "Titel": "Bildmumie",
         "Jahr": "1978 - 1985",
         "Werkgruppe": "Objekt",
-        "Material": "Farbe, Gold, Leinwand, K\u00f6rperabdruck auf Nessel  / Zu sehen ist ein K\u00f6rperabdruck, der damals (1978) vergoldet und mumifiziert wurde. Die Mumie wurde 1985 ge\u00f6ffnet.Ma\u0156e100 x 200 cm",
-        "Signatur": "signiertAnzahlEinzelobjekt",
+        "Material": "Farbe, Gold, Leinwand, K\u00f6rperabdruck auf Nessel  / Zu sehen ist ein K\u00f6rperabdruck, der damals (1978) vergoldet und mumifiziert wurde. Die Mumie wurde 1985 ge\u00f6ffnet.",
+        "Ma\u00dfe": "100 x 200 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "PrivatbesitzFoto",
+        "Standort": "Privatbesitz",
         "Ausstellung": "Kunstverein Kassel, Rollbilder, Kassel 1985. Allgemeine Frankfurter Ersatzkunst, Frankfurt/M. 1985",
         "Bibliographie": "Kunstverein Kassel, Rollbilder (Katalog), Kassel 1985",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1459.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1459.gif.webp"
             }
         ]
     },
@@ -136,16 +152,18 @@
         "Titel": "Foto- Karton- Kasten mit Fahrradgl\u00fchbirnchen und Portrait von Christus",
         "Jahr": "1986",
         "Werkgruppe": "Objekt",
-        "Material": "Fotopapierkiste mit ausgespartem Innenfeld, Gl\u00fchbirnchen und 6 LuminogrammenMa\u0156e19,7 x 14,5 x 3 cm / Ma\u0156e der Luminogramme je: 16,5 x 12 cm.",
-        "Signatur": "auf der Schmalseite signiertAnzahlEntwurf f\u00fcr eine Auflagenserie f\u00fcr ad hoc edition, Heinz Thiel Hannover, nicht verwirklicht, Einzelexemplar",
+        "Material": "Fotopapierkiste mit ausgespartem Innenfeld, Gl\u00fchbirnchen und 6 Luminogrammen",
+        "Ma\u00dfe": "19,7 x 14,5 x 3 cm / Ma\u00dfe der Luminogramme je: 16,5 x 12 cm.",
+        "Signatur": "auf der Schmalseite signiert",
+        "Anzahl": "Entwurf f\u00fcr eine Auflagenserie f\u00fcr ad hoc edition, Heinz Thiel Hannover, nicht verwirklicht, Einzelexemplar",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1471.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1471.gif.webp"
             }
         ]
     },
@@ -154,32 +172,36 @@
         "Titel": "Brenneisen",
         "Jahr": "1995",
         "Werkgruppe": "Objekt",
-        "Material": "Brenneisen, umwickelt mit Punkt-StoffMa\u0156eH\u00f6he: 25 cm",
-        "Signatur": "signiertAnzahlEinzelobjekt / Serie: Super ZubaBeschreibung es gibt noch ein zweites mit etwas gr\u00f6sserem Portr\u00e4t-",
+        "Material": "Brenneisen, umwickelt mit Punkt-Stoff",
+        "Ma\u00dfe": "H\u00f6he: 25 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt / Serie: Super ZubaBeschreibung es gibt noch ein zweites mit etwas gr\u00f6sserem Portr\u00e4t-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Marianne Milani, AtelierFoto",
+        "Standort": "Privatbesitz: Marianne Milani, Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1465.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1465.gif.webp"
             }
         ]
     },
     {
         "Inv. Nr.": "OB1464",
-        "Titel": "Der Wei\u0156e Traum",
+        "Titel": "Der Wei\u00dfe Traum",
         "Jahr": "1980",
         "Werkgruppe": "Objekt - Buch",
-        "Material": "ungebrannter Ton (Kaolin)Ma\u0156e10 x 20 x 4 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "ungebrannter Ton (Kaolin)",
+        "Ma\u00dfe": "10 x 20 x 4 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "Buch aus wei\u00dfem Ton",
         "Zustand": "schlecht",
         "Standort": "Atelier      -",
         "Ausstellung": "Centre Georges Pompidou, Livres d`artistes, Paris 1985",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1464.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1464.gif.webp"
             }
         ]
     },
@@ -187,13 +209,15 @@
         "Inv. Nr.": "OB1458",
         "Titel": "Rosenleib",
         "Jahr": "1979Werk-gruppeObjekt",
-        "Material": "Baumwolltuch mit brauner Leimfarbe und K\u00f6rperabdr\u00fcckenMa\u0156e200 x 100 cm",
-        "Signatur": "signiertAnzahlEinzelobjekt",
+        "Material": "Baumwolltuch mit brauner Leimfarbe und K\u00f6rperabdr\u00fccken",
+        "Ma\u00dfe": "200 x 100 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
         "Standort": "Privatbesitz: Heinke Kilian",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1458.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1458.gif.webp"
             }
         ]
     },
@@ -202,13 +226,15 @@
         "Titel": "Leuchtende Vorbilder Gluck",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: Kr\u00fcgerFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Kr\u00fcger",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1882.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1882.gif.webp"
             }
         ]
     },
@@ -217,13 +243,15 @@
         "Titel": "Leuchtende Vorbilder Schubert",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: RibbentropFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Ribbentrop",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1886.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1886.gif.webp"
             }
         ]
     },
@@ -232,13 +260,15 @@
         "Titel": "Mumien-Buch",
         "Jahr": "1977/79",
         "Werkgruppe": "Objekt-Buch",
-        "Material": "Buch mit 7 Seiten, Leinen/ in Analogie zu den mumifizierten Bildern einmumifiziertesBuch-die Technik des Mumifizierenswurde auf das Buch \u00fcbertragen. Jede der 7 Seiten, die urspr\u00fcnglich aus Papier be-standen, sind mumifiziert. Der Buchdeckel und die R\u00fcckseite sind mit Leinen verbunden.Ma\u0156e50 x 36 x 4,5 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Buch mit 7 Seiten, Leinen/ in Analogie zu den mumifizierten Bildern einmumifiziertesBuch-die Technik des Mumifizierenswurde auf das Buch \u00fcbertragen. Jede der 7 Seiten, die urspr\u00fcnglich aus Papier be-standen, sind mumifiziert. Der Buchdeckel und die R\u00fcckseite sind mit Leinen verbunden.",
+        "Ma\u00dfe": "50 x 36 x 4,5 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1460.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1460.gif.webp"
             }
         ]
     },
@@ -247,16 +277,18 @@
         "Titel": "Leuchtende Vorbilder - Rosa Luxemburg",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Nele RiehleFoto",
+        "Standort": "Privatbesitz: Nele Riehle",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1448.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1448.gif.webp"
             }
         ]
     },
@@ -265,16 +297,18 @@
         "Titel": "Leuchtende Vorbilder - Fa\u00dfbinder",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "PrivatbesitzFoto",
+        "Standort": "Privatbesitz",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1449.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1449.gif.webp"
             }
         ]
     },
@@ -283,16 +317,18 @@
         "Titel": "Mumien-Buch",
         "Jahr": "1977/79",
         "Werkgruppe": "Objekt-Buch",
-        "Material": "Buch, mit Leinen verbunden / Zu sehen ist ein mit Leinen mumifiziertes Buch. Der Deckel, die R\u00fcckseite sowie die Seiten des Buches sind mit Leinen zusammengebunden.Ma\u0156eca. 24 x 17 x 2,3 cm",
-        "Signatur": "signiert.AnzahlAuflage von 10 Mumien-B\u00fcchern",
+        "Material": "Buch, mit Leinen verbunden / Zu sehen ist ein mit Leinen mumifiziertes Buch. Der Deckel, die R\u00fcckseite sowie die Seiten des Buches sind mit Leinen zusammengebunden.",
+        "Ma\u00dfe": "ca. 24 x 17 x 2,3 cm",
+        "Signatur": "signiert.",
+        "Anzahl": "Auflage von 10 Mumien-B\u00fcchern",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "6 Atelier / 4 PrivatbesitzFoto",
+        "Standort": "6 Atelier / 4 Privatbesitz",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1461.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1461.gif.webp"
             }
         ]
     },
@@ -301,16 +337,18 @@
         "Titel": "Erntedank - Kasten",
         "Jahr": "1982",
         "Werkgruppe": "Objekt",
-        "Material": "Zeichnungen auf Schoten und K\u00fcrbisschale, Schwarze Kiste, mit Watte ausgelegtMa\u0156eMa\u00dfe der Kiste: 12 x 15,5 cm",
-        "Signatur": "Sowohl die Schote als auch die K\u00fcrbisschale sind signiert und datiert. Die K\u00fcrbisschale ist zudem mit einer Widmung versehen.AnzahlEinzelobjekt",
+        "Material": "Zeichnungen auf Schoten und K\u00fcrbisschale, Schwarze Kiste, mit Watte ausgelegt",
+        "Ma\u00dfe": "Ma\u00dfe der Kiste: 12 x 15,5 cm",
+        "Signatur": "Sowohl die Schote als auch die K\u00fcrbisschale sind signiert und datiert. Die K\u00fcrbisschale ist zudem mit einer Widmung versehen.",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Gerhard Johann LischkaFoto",
+        "Standort": "Privatbesitz: Gerhard Johann Lischka",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1878.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1878.gif.webp"
             }
         ]
     },
@@ -319,13 +357,15 @@
         "Titel": "Leuchtende Vorbilder Gr\u00fcnewald",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u0156, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: Sammlung BeaufourFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Sammlung Beaufour",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1887.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1887.gif.webp"
             }
         ]
     },
@@ -334,13 +374,15 @@
         "Titel": "Leuchtende Vorbilder Joseph Beuys",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: RattemeyerFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Rattemeyer",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1885.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1885.gif.webp"
             }
         ]
     },
@@ -349,15 +391,17 @@
         "Titel": "Le corps du delict",
         "Jahr": "1978",
         "Werkgruppe": "Objekt-Buch",
-        "Material": "B\u00fcrgerliches Gesetzbuch,Blut, Haare/das B\u00fcrgerlicheGesetzbuch wurde vom K\u00fcnstler \u201e\u00fcberarbeitet\": Es ist durchschossenund zus\u00e4tzlich mit Blut bearbeitet, so da\u00df die Seiten verklebt sind. Zudem sind Haare aufgeklebt.Ma\u0156e19,5 x 12 x 6 cm",
-        "Signatur": "Innenseite, rechts untenAnzahlEinzelobjekt",
+        "Material": "B\u00fcrgerliches Gesetzbuch,Blut, Haare/das B\u00fcrgerlicheGesetzbuch wurde vom K\u00fcnstler \u201e\u00fcberarbeitet\": Es ist durchschossenund zus\u00e4tzlich mit Blut bearbeitet, so da\u00df die Seiten verklebt sind. Zudem sind Haare aufgeklebt.",
+        "Ma\u00dfe": "19,5 x 12 x 6 cm",
+        "Signatur": "Innenseite, rechts unten",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Ausstellung": "Produzentengalerie, Ausstellung K\u00fcnstlerb\u00fccher, M\u00fcnchen 1980-81.",
         "Bibliographie": "Produzentengalerie, Ausstellung K\u00fcnstlerb\u00fccher (KatalogIII), M\u00fcnchen 1980",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1463.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1463.gif.webp"
             }
         ]
     },
@@ -366,16 +410,18 @@
         "Titel": "Buch mit Sieben Siegeln",
         "Jahr": "1977 / 79",
         "Werkgruppe": "Objekt - Buch",
-        "Material": "Buch, Asphalt-Lack und Siegel-Lack / Zu sehen ist ein mit Asphalt-Lack und Siegel-Lack versiegeltes Buch.Ma\u0156e20,5 x 13 x 1,5 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Buch, Asphalt-Lack und Siegel-Lack / Zu sehen ist ein mit Asphalt-Lack und Siegel-Lack versiegeltes Buch.",
+        "Ma\u00dfe": "20,5 x 13 x 1,5 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1462.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1462.gif.webp"
             }
         ]
     },
@@ -384,13 +430,15 @@
         "Titel": "Leuchtende Vorbilder Max Beckmann",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie:  Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: RattemeyerFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie:  Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Rattemeyer",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1884.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1884.gif.webp"
             }
         ]
     },
@@ -399,15 +447,17 @@
         "Titel": "Leuchtende Vorbilder - F\u00e4n Schniewind",
         "Jahr": "1990 - 1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u0156, Halogenlampe mit bemalter GlaskappeMa\u0156eMa\u0156e variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder + Luminogramm",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe mit bemalter Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder + Luminogramm",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz:RibbentropFoto",
+        "Standort": "Privatbesitz:Ribbentrop",
         "Ausstellung": "ACR, Eltville 1992Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1439.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1439.gif.webp"
             }
         ]
     },
@@ -416,15 +466,18 @@
         "Titel": "Kleiner Sterbender unter Bettdecke",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton \"Benutzungsobjekt\"Ma\u0156e5 x 14 x 6,5 cm",
-        "Signatur": "auf der BodenunterseiteAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton \"Benutzungsobjekt\"",
+        "Ma\u00dfe": "5 x 14 x 6,5 cm",
+        "Signatur": "auf der Bodenunterseite",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto-",
+        "Standort": "Atelier",
+        "Foto": "-",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1363.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1363.gif.webp"
             }
         ]
     },
@@ -432,13 +485,15 @@
         "Inv. Nr.": "OB1377",
         "Titel": "Alt\u00e4re-Altar",
         "Jahr": "1970Werk-gruppeObjekt",
-        "Material": "Metallst\u00e4be, umwickelt mit Mullbinden, auf d\u00fcnnem Podest erh\u00f6htMa\u0156egeschlossen: 110 x 52 x 26cm, ge\u00f6ffnet: 104cm breit",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Metallst\u00e4be, umwickelt mit Mullbinden, auf d\u00fcnnem Podest erh\u00f6ht",
+        "Ma\u00dfe": "geschlossen: 110 x 52 x 26cm, ge\u00f6ffnet: 104cm breit",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1377.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1377.gif.webp"
             }
         ]
     },
@@ -447,16 +502,18 @@
         "Titel": "Identit\u0161tskoffer",
         "Jahr": "1981",
         "Werkgruppe": "Objekt",
-        "Material": "schwarzer Aktenkoffer, gef\u00fcllt mit wei\u00dfem Kaolin und einer Figur eines wei\u00dfen L\u00f6wenMa\u0156e11,5 x 52,5 x 34,5 cm",
-        "Signatur": "vorne rechtsAnzahlEinzelobjekt",
+        "Material": "schwarzer Aktenkoffer, gef\u00fcllt mit wei\u00dfem Kaolin und einer Figur eines wei\u00dfen L\u00f6wen",
+        "Ma\u00dfe": "11,5 x 52,5 x 34,5 cm",
+        "Signatur": "vorne rechts",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Delikatesy Avantgarde, Fatamorgana, Danzig 1994",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1411.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1411.gif.webp"
             }
         ]
     },
@@ -464,14 +521,16 @@
         "Inv. Nr.": "OB1388",
         "Titel": "Kopff\u00fcssler-Objektkasten",
         "Jahr": "1976",
-        "Werkgruppe": "ObjektMaterial Kaugummi auf Nadeln in einem Kasten montiertMa\u0156e27 x 51,5 x 6,5cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt/Serie: Kaugummiarbeiten",
+        "Werkgruppe": "ObjektMaterial Kaugummi auf Nadeln in einem Kasten montiert",
+        "Ma\u00dfe": "27 x 51,5 x 6,5cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt/Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1388.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1388.gif.webp"
             }
         ]
     },
@@ -480,15 +539,17 @@
         "Titel": "Orden und Ehrenabzeichen",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummi und Silberpapier im RahmenkastenMa\u0156e53 x 64 x 5 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Kaugummiarbeiten",
+        "Material": "Kaugummi und Silberpapier im Rahmenkasten",
+        "Ma\u00dfe": "53 x 64 x 5 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Kaugummiarbeiten",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u0172\u00f6liche Weihnachten, Wiesbaden 1976Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1389.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1389.gif.webp"
             }
         ]
     },
@@ -496,31 +557,35 @@
         "Inv. Nr.": "OB1376",
         "Titel": "4 Jahreszeiten",
         "Jahr": "1973Werk-gruppeObjekt",
-        "Material": "bemalter schwarzer Holzsetzkasten,in den Feldern bemalte Muscheln und umlaufend eine Reihe von Fotografien, vor denen sich schwarze Wachsfig\u00fcrchen befindenMa\u0156e74,5x89,5x3,8cm",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjekt",
+        "Material": "bemalter schwarzer Holzsetzkasten,in den Feldern bemalte Muscheln und umlaufend eine Reihe von Fotografien, vor denen sich schwarze Wachsfig\u00fcrchen befinden",
+        "Ma\u00dfe": "74,5x89,5x3,8cm",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1376.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1376.gif.webp"
             }
         ]
     },
     {
         "Inv. Nr.": "OB1410",
-        "Titel": "Der Wei\u0156e Traum Koffer",
+        "Titel": "Der Wei\u00dfe Traum Koffer",
         "Jahr": "1980",
         "Werkgruppe": "Objekt",
-        "Material": "wei\u00df gelackter Holzkoffer, auf dem Deckel weisse Kunstoffschrift sowie folgender Inhalt: 1 Reihe Dias; 1 St\u00fcck Ton; 1 Kassette mit Bachrauschen (Endlosband); 1 Tuch; Polaroid-Dokumentation und 1 Skizze von der H\u00e4ngung des \"Wei\u00dfen Traumes\"Ma\u0156e30,5 x 49,5 x 12,5 cm",
-        "Signatur": "unsigniertAnzahl2 Exemplare",
+        "Material": "wei\u00df gelackter Holzkoffer, auf dem Deckel weisse Kunstoffschrift sowie folgender Inhalt: 1 Reihe Dias; 1 St\u00fcck Ton; 1 Kassette mit Bachrauschen (Endlosband); 1 Tuch; Polaroid-Dokumentation und 1 Skizze von der H\u00e4ngung des \"Wei\u00dfen Traumes\"",
+        "Ma\u00dfe": "30,5 x 49,5 x 12,5 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "2 Exemplare",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Harlekin Art, Aktion und  Environment, Der Wei\u00dfe  Traum, Wiesbaden 1980. Gesamthochschule Kassel,  K 18 - Stoffwechsel, Kassel 1982. Fundacion Joan Miro, Dress,  Barcelona 1983. Ausstellung im Frankfurter Flughafen,  Alle Koffer fliegen  hoch, Frankfurt/M. 1993 Galerie Delikatesy Avantgarde, Fatamorgana  Danzig 1994",
         "Bibliographie": "Gesamthochschule Kassel, K 18 - Stoffwechsel (Katalog), 1998. Alle Koffer fliegen hoch, Frankfurt 1993",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1410.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1410.gif.webp"
             }
         ]
     },
@@ -529,15 +594,17 @@
         "Titel": "Keramik Brief",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, bemalt und beschrieben auf der Vorder- und R\u00fcckseite, adressiert an das Lehramt, an Frau Anneliese Braunm\u00fcllerMa\u0156e14 x 22 x 14 cm",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjektBeschreibung  -",
+        "Material": "gebrannter Ton, bemalt und beschrieben auf der Vorder- und R\u00fcckseite, adressiert an das Lehramt, an Frau Anneliese Braunm\u00fcller",
+        "Ma\u00dfe": "14 x 22 x 14 cm",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "EinzelobjektBeschreibung  -",
         "Zustand": "gut",
-        "Standort": "Gunter G\u00f6ringFoto",
+        "Standort": "Gunter G\u00f6ring",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1404.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1404.gif.webp"
             }
         ]
     },
@@ -546,13 +613,15 @@
         "Titel": "A: Arbeiter in Latzhose / B: Lady in Unterw\u00e4sche C: Rauchende Lady",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, bemalt mit verschiedenen LackfarbenMa\u0156eje 35 x 12 x14 cm",
-        "Signatur": "jeweils unter dem FussAnzahles handelt sich um eine Serie von drei Einzelobjekten",
+        "Material": "gebrannter Ton, bemalt mit verschiedenen Lackfarben",
+        "Ma\u00dfe": "je 35 x 12 x14 cm",
+        "Signatur": "jeweils unter dem Fuss",
+        "Anzahl": "es handelt sich um eine Serie von drei Einzelobjekten",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1362.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1362.gif.webp"
             }
         ]
     },
@@ -561,15 +630,16 @@
         "Titel": "Brandmalerei mit Leuchtendem Vorbild - Schmela",
         "Jahr": "1990 - 1993 - 1997",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", BrandmalereiMa\u0156e",
-        "Signatur": "signiertAnzahlEinzelobjekt / Serie: Holzkasten-Vorbilder",
+        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten-Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: RibbentropFoto",
+        "Standort": "Privatbesitz: Ribbentrop",
         "Ausstellung": "ACR, Eltville 1992Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1438.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1438.gif.webp"
             }
         ]
     },
@@ -577,13 +647,15 @@
         "Ausstellung": "Harlekin Art, Der Humor ist der Regenschirm der Weisen, Wiesbaden 1990",
         "Titel": "Deutsches Gro\u00dfhirn",
         "Jahr": "1990Werk-gruppeObjekt",
-        "Material": "bearbeitete Bleirohre auf gestapeltem Betonplattenblock mit einem Schild beschriftetMa\u0156e15 x 20 x 26 cm, Sockelplatte je 30 x 30cm,zusammen 120 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "bearbeitete Bleirohre auf gestapeltem Betonplattenblock mit einem Schild beschriftet",
+        "Ma\u00dfe": "15 x 20 x 26 cm, Sockelplatte je 30 x 30cm,zusammen 120 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
         "Standort": "Privatbesitz: Michael Berger",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1412.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1412.gif.webp"
             }
         ]
     },
@@ -592,21 +664,23 @@
         "Titel": "Ernte 23 Altar - Himmelsaltar",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "bemalter Holzsetzkasten, in denAbteilungen findensich u.a.:bemalteEierschalen, Pappschachteln, Keramik, Gl\u00fchbirne, schwarzes Wachs, Samtkissen,N\u00e4gel, Zigarettenschachtel, Butterbrotpapier,Gebi\u00df,bemalte MuschelnMa\u0156e83x54x6,5cm",
-        "Signatur": "R\u00fcckseite,unten rechtsAnzahlEinzelobjekt",
+        "Material": "bemalter Holzsetzkasten, in denAbteilungen findensich u.a.:bemalteEierschalen, Pappschachteln, Keramik, Gl\u00fchbirne, schwarzes Wachs, Samtkissen,N\u00e4gel, Zigarettenschachtel, Butterbrotpapier,Gebi\u00df,bemalte Muscheln",
+        "Ma\u00dfe": "83x54x6,5cm",
+        "Signatur": "R\u00fcckseite,unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1374.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1374.gif.webp"
             }
         ]
     },
     {
-        "Standort": "AtelierInv. Nr.;OB1360Titel;VW - PharaoJahr;1970Werkgruppe;ObjektMaterial;gebrannter Ton bemalt mit LackstiftMa\u0156e;26 x 15 x 15cmSignatur;seitlich, links untenAnzahl;EinzelobjektBeschreibung;-Zustand;sehr gutStandort;Atelier",
+        "Standort": "AtelierInv. Nr.;OB1360Titel;VW - PharaoJahr;1970Werkgruppe;ObjektMaterial;gebrannter Ton bemalt mit LackstiftMa\u00dfe;26 x 15 x 15cmSignatur;seitlich, links untenAnzahl;EinzelobjektBeschreibung;-Zustand;sehr gutStandort;Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1360.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1360.gif.webp"
             }
         ]
     },
@@ -615,15 +689,17 @@
         "Titel": "Spaziergang",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummis, T\u00fcten und Fotografien, montiert auf PapierMa\u0156e175 x 70 cm",
-        "Signatur": "unten rechtsAnzahlSerie bestehend aus 28 Einzelobjekten und Fotografien / Serie: Kaugummiarbeiten",
+        "Material": "Kaugummis, T\u00fcten und Fotografien, montiert auf Papier",
+        "Ma\u00dfe": "175 x 70 cm",
+        "Signatur": "unten rechts",
+        "Anzahl": "Serie bestehend aus 28 Einzelobjekten und Fotografien / Serie: Kaugummiarbeiten",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1406.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1406.gif.webp"
             }
         ]
     },
@@ -632,16 +708,19 @@
         "Titel": "If you don\u2019t know what",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton bemalt und collagiertMa\u0156e21 x 15 x 14cm",
-        "Signatur": "unten rechtsAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton bemalt und collagiert",
+        "Ma\u00dfe": "21 x 15 x 14cm",
+        "Signatur": "unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto-",
+        "Standort": "Atelier",
+        "Foto": "-",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1361.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1361.gif.webp"
             }
         ]
     },
@@ -650,13 +729,15 @@
         "Titel": "Weins\u00e4ule",
         "Jahr": "1973",
         "Werkgruppe": "Objekt",
-        "Material": "Eichenholz, gebeizt und bemalt, mit einer Kupferblechabdeckung / Es handelt sich um eine gro\u00dfe Auftragsarbeit, die Kutscher in Form einer gro\u00dfen S\u00e4ule l\u00f6ste, Inhalt ist der Weinbau. Gezeigt werden die unterschiedlichen T\u00e4tigkeiten eines Winzers, in die zw\u00f6lf Monate und die vier Jahreszeiten unterteilt.Dabei werden sowohlmythische Figuren als auch rauschhafte Szenendargestellt.Ma\u0156e400 x 50 cm",
-        "Signatur": "unten rechtsAnzahlEinzelobjekt",
+        "Material": "Eichenholz, gebeizt und bemalt, mit einer Kupferblechabdeckung / Es handelt sich um eine gro\u00dfe Auftragsarbeit, die Kutscher in Form einer gro\u00dfen S\u00e4ule l\u00f6ste, Inhalt ist der Weinbau. Gezeigt werden die unterschiedlichen T\u00e4tigkeiten eines Winzers, in die zw\u00f6lf Monate und die vier Jahreszeiten unterteilt.Dabei werden sowohlmythische Figuren als auch rauschhafte Szenendargestellt.",
+        "Ma\u00dfe": "400 x 50 cm",
+        "Signatur": "unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
         "Standort": "Weingut von Knyphausen, Eltville",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1407.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1407.gif.webp"
             }
         ]
     },
@@ -664,13 +745,15 @@
         "Inv. Nr.": "OB1413",
         "Titel": "Maskenbei\u00dfer",
         "Jahr": "1990",
-        "Werkgruppe": "ObjektMaterial Bronze/Die Skulptur hat bewu\u00dft keinen festen Stand,sondern \"wackelt\".Somit hat mal die eine Maske, mal die andere Maske Oberhand.Ma\u0156eca. 22 x 30 x 16 cm",
-        "Signatur": "unsigniertAnzahlAuflage von 3 Objekten",
+        "Werkgruppe": "ObjektMaterial Bronze/Die Skulptur hat bewu\u00dft keinen festen Stand,sondern \"wackelt\".Somit hat mal die eine Maske, mal die andere Maske Oberhand.",
+        "Ma\u00dfe": "ca. 22 x 30 x 16 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Auflage von 3 Objekten",
         "Zustand": "sehr gut",
         "Standort": "1: G. G\u00f6ring / 2: N. Klassen / 3: D. Reinhard",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1413.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1413.gif.webp"
             }
         ]
     },
@@ -679,15 +762,17 @@
         "Titel": "Moloch Kapitalismus. Altar zum Tragen oder Hinstellen",
         "Jahr": "1970-1974",
         "Werkgruppe": "Objekt",
-        "Material": "Pappe,Goldbronze und Acrylfarben, R\u00fcckseite Text mit GebetMa\u0156eca. 100 x 120cmSignatur      unsigniertAnzahlEinzelobjekt",
+        "Material": "Pappe,Goldbronze und Acrylfarben, R\u00fcckseite Text mit Gebet",
+        "Ma\u00dfe": "ca. 100 x 120cmSignatur      unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "Der Altar wurde in Strassenbahnen und neben Demonstrationen getragen und das \t      r\u00fcckseitige Gebet gemeinsam vorgetragen, daneben Strassenkasper mit Puppen.",
         "Zustand": "sehr gut",
-        "Standort": "Historisches Museum FrankfurtFoto",
+        "Standort": "Historisches Museum Frankfurt",
         "Ausstellung": "St\u00e4ndige Pr\u00e4sentation Die 68er.Kurzer Sommer-lange Wirkung, Historisches Museum Frankfurt, 2008",
         "Bibliographie": "Die 68er. Kurzer Sommer-lange Wirkung, Historisches Museum Frankfurt am Main, Band 27 2008 Geschichte der Neuzeit, Lehrmittelverlag Z\u00fcrich,2009",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1952.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1952.gif.webp"
             }
         ]
     },
@@ -695,13 +780,15 @@
         "Inv. Nr.": "OB1371",
         "Titel": "Gef\u00e4ngnissaltar",
         "Jahr": "1970WerkgruppeObjekt",
-        "Material": "Triptychon, bestehend aus bemaltem Holz,innen ausgeschlagenmit Bleiplatten, zudem mit N\u00e4geln und Pferdehaaren versehen (vollst\u00e4ndig farbig gefasst)Ma\u0156egeschlossen: 125 x 30 x 20 cm, ge\u00f6ffnet 85 cmbreit",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjekt",
+        "Material": "Triptychon, bestehend aus bemaltem Holz,innen ausgeschlagenmit Bleiplatten, zudem mit N\u00e4geln und Pferdehaaren versehen (vollst\u00e4ndig farbig gefasst)",
+        "Ma\u00dfe": "geschlossen: 125 x 30 x 20 cm, ge\u00f6ffnet 85 cmbreit",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1371.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1371.gif.webp"
             }
         ]
     },
@@ -710,16 +797,18 @@
         "Titel": "Mickey Mouse-Maske",
         "Jahr": "1985/86",
         "Werkgruppe": "Objekt",
-        "Material": "2 Singles, 1 Magnetbandspule sowie schwarzer Stift und HaarMa\u0156e36 x 37 cm",
-        "Signatur": "signiertAnzahlEinzelobjekt",
+        "Material": "2 Singles, 1 Magnetbandspule sowie schwarzer Stift und Haar",
+        "Ma\u00dfe": "36 x 37 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "Material f\u00fcr Performance Eiertanz im Simulator",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1417.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1417.gif.webp"
             }
         ]
     },
@@ -728,16 +817,18 @@
         "Titel": "Redehilfen und Klatschel",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton (Hohlformen-Innenform entstanden als Negativformen aus unterschiedlichen Handhaltungen) im Holzkasten mit rotem Kreuz und s/w Fotoserie dazuMa\u0156ediverse Ma\u00dfe - Handgro\u00df, die Ma\u00dfe des Kastens betragen: 11 x 30 x 21 cm",
-        "Signatur": "signiertAnzahlSerie mit 13 Einzelexemplaren",
+        "Material": "gebrannter Ton (Hohlformen-Innenform entstanden als Negativformen aus unterschiedlichen Handhaltungen) im Holzkasten mit rotem Kreuz und s/w Fotoserie dazu",
+        "Ma\u00dfe": "diverse Ma\u00dfe - Handgro\u00df, die Ma\u00dfe des Kastens betragen: 11 x 30 x 21 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Serie mit 13 Einzelexemplaren",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Ribbentrop, Eltville",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1403.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1403.gif.webp"
             }
         ]
     },
@@ -746,13 +837,15 @@
         "Titel": "Die Konferenz",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, mit Lack bemalt, zweiteiliges, zusammengeh\u00f6riges ObjektMa\u0156eunterer Teil: 12x35x25cmoberer Teil: 19x39x27 cm",
-        "Signatur": "rechts untenAnzahlEinzelobjekt, bestehend aus zwei Teilen",
+        "Material": "gebrannter Ton, mit Lack bemalt, zweiteiliges, zusammengeh\u00f6riges Objekt",
+        "Ma\u00dfe": "unterer Teil: 12x35x25cmoberer Teil: 19x39x27 cm",
+        "Signatur": "rechts unten",
+        "Anzahl": "Einzelobjekt, bestehend aus zwei Teilen",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1365.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1365.gif.webp"
             }
         ]
     },
@@ -761,14 +854,16 @@
         "Titel": "Sardinenb\u00fcchse",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter und bemalter Ton, die Arbeit ist \"benutzbar\",das heisst der Betrachter kann mit den Figuren spielen, sie aus der Dose herausnehmen, ihre Lage und Anzahl ver\u00e4ndernMa\u0156e5 x 21 x 10 cm",
-        "Signatur": "auf der BodenunterseiteAnzahlEinzelobjekt, dazugeh\u00f6rend weitere acht Einzelteile",
+        "Material": "gebrannter und bemalter Ton, die Arbeit ist \"benutzbar\",das heisst der Betrachter kann mit den Figuren spielen, sie aus der Dose herausnehmen, ihre Lage und Anzahl ver\u00e4ndern",
+        "Ma\u00dfe": "5 x 21 x 10 cm",
+        "Signatur": "auf der Bodenunterseite",
+        "Anzahl": "Einzelobjekt, dazugeh\u00f6rend weitere acht Einzelteile",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1359.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1359.gif.webp"
             }
         ]
     },
@@ -777,16 +872,18 @@
         "Titel": "Vierer",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, mit verschiedenfarbigen Lackstiften bemaltMa\u0156e12 x 12 x 12 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton, mit verschiedenfarbigen Lackstiften bemalt",
+        "Ma\u00dfe": "12 x 12 x 12 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1402.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1402.gif.webp"
             }
         ]
     },
@@ -795,14 +892,16 @@
         "Titel": "Vespa-Paar",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, mit Lack bemaltMa\u0156e26 x 45 x15 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton, mit Lack bemalt",
+        "Ma\u00dfe": "26 x 45 x15 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
-        "Standort": "Roland BreitschaftFoto",
+        "Standort": "Roland Breitschaft",
         "Ausstellung": "-Bibliographie-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1364.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1364.gif.webp"
             }
         ]
     },
@@ -811,15 +910,17 @@
         "Titel": "Privat-Altar",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, mit verschieden-farbigen Lackstiften bemalt (Kerzen)Ma\u0156e28 x 43,5 x 20 cm",
-        "Signatur": "InnenseiteAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton, mit verschieden-farbigen Lackstiften bemalt (Kerzen)",
+        "Ma\u00dfe": "28 x 43,5 x 20 cm",
+        "Signatur": "Innenseite",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1370.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1370.gif.webp"
             }
         ]
     },
@@ -827,28 +928,31 @@
         "Inv. Nr.": "OB1416",
         "Titel": "K\u00fcrbis und Gurkenhalter Ensemble",
         "Jahr": "1982",
-        "Werkgruppe": "ObjektMaterial gebrannter TonMa\u0156e1: 20x35cm/ 2: 20x25x8cm/ 3: 15x24x8cm",
-        "Signatur": "unsigniertAnzahlEnsemble,bestehend aus 3 Arbeiten",
+        "Werkgruppe": "ObjektMaterial gebrannter Ton",
+        "Ma\u00dfe": "1: 20x35cm/ 2: 20x25x8cm/ 3: 15x24x8cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Ensemble,bestehend aus 3 Arbeiten",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Ausstellung": "Erntedankfest,Atelier Kutscher 1982",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1416.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1416.gif.webp"
             }
         ]
     },
     {
         "Inv. Nr.": "OB1366",
         "Titel": "A: Ski-Lift B: Abfahrt C: Beschriftung D: An der Ampel E: Baustelle",
-        "Jahr": "1969Werk-ObjektgruppeTechnikHolz bemalt mit verschiedenfarbigen LackstiftenEs handelt sich um abges\u00e4gte Stuhlbeine, die nach oben hin abgerundet sind.Ma\u0156el-12cm",
+        "Jahr": "1969Werk-ObjektgruppeTechnikHolz bemalt mit verschiedenfarbigen LackstiftenEs handelt sich um abges\u00e4gte Stuhlbeine, die nach oben hin abgerundet sind.",
+        "Ma\u00dfe": "l-12cm",
         "Signatur": "auf der Unterseite",
         "Auflage": "Serie 5 St\u00fcck",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1366.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1366.gif.webp"
             }
         ]
     },
@@ -856,13 +960,14 @@
         "Inv. Nr.": "OB1400",
         "Titel": "Pissoir",
         "Jahr": "1970",
-        "Werkgruppe": "ObjektMaterial gebrannter Ton, mit verschiedenfarbigen Lackstiften bemalt, zweiteiligMa\u0156e     ca. 20 x 25 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Werkgruppe": "ObjektMaterial gebrannter Ton, mit verschiedenfarbigen Lackstiften bemalt, zweiteiligMa\u00dfe     ca. 20 x 25 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1400.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1400.gif.webp"
             }
         ]
     },
@@ -871,16 +976,18 @@
         "Titel": "Maske Berger",
         "Jahr": "1990",
         "Werkgruppe": "Objekt",
-        "Material": "Bronze mit einem Ger\u00fcst aus Kupfer (Kopf beweglich)Ma\u0156e50 x 15 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Michael Berger",
+        "Material": "Bronze mit einem Ger\u00fcst aus Kupfer (Kopf beweglich)",
+        "Ma\u00dfe": "50 x 15 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Michael Berger",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz:Michael BergerFoto",
+        "Standort": "Privatbesitz:Michael Berger",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1414.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1414.gif.webp"
             }
         ]
     },
@@ -889,13 +996,16 @@
         "Titel": "Fetisch-Altar mit Streifen",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "bemaltes Holz,Hasendraht Ro\u00dfhaar und KaninchenknochenMa\u0156e56x46x14cm, ge\u00f6ffnet 94cm breit",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjekt",
+        "Material": "bemaltes Holz,Hasendraht Ro\u00dfhaar und Kaninchenknochen",
+        "Ma\u00dfe": "56x46x14cm, ge\u00f6ffnet 94cm breit",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
+        "Foto": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1372.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1372.gif.webp"
             }
         ]
     },
@@ -903,14 +1013,16 @@
         "Inv. Nr.": "OB1428",
         "Titel": "Mundst\u00fcck",
         "Jahr": "1997Werk-gruppeObjekt",
-        "Material": "Vollbronzegu\u00df mit Eingu\u00dfkanal. Der\"Doppelmund\"kann wie einSpiegel gehalten werden.Ma\u0156e21 x 16 x 8 cm",
-        "Signatur": "unsigniertAnzahlEinzelst\u00fcck",
+        "Material": "Vollbronzegu\u00df mit Eingu\u00dfkanal. Der\"Doppelmund\"kann wie einSpiegel gehalten werden.",
+        "Ma\u00dfe": "21 x 16 x 8 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelst\u00fcck",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Ausstellung": "Opel-Villen, beziehungsweise...,  R\u00fcsselsheim 1998",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1428.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1428.gif.webp"
             }
         ]
     },
@@ -919,13 +1031,15 @@
         "Titel": "Kleiner Schl\u00e4fer",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter TonMa\u0156e5 x 14 x 9 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton",
+        "Ma\u00dfe": "5 x 14 x 9 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Privatbesitz: E. Hassenkamp",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1399.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1399.gif.webp"
             }
         ]
     },
@@ -933,14 +1047,16 @@
         "Inv. Nr.": "OB1398",
         "Titel": "Ersatzgalgen",
         "Jahr": "1976",
-        "Werkgruppe": "ObjektMaterial Holz, Draht, N\u0161gel und bearbeiteteKaugummisMa\u0156e40 x 24 x 8 cm",
-        "Signatur": "unten seitlichAnzahlEinzelobjekt/Serie: Kaugummiarbeiten",
+        "Werkgruppe": "ObjektMaterial Holz, Draht, N\u0161gel und bearbeiteteKaugummis",
+        "Ma\u00dfe": "40 x 24 x 8 cm",
+        "Signatur": "unten seitlich",
+        "Anzahl": "Einzelobjekt/Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1398.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1398.gif.webp"
             }
         ]
     },
@@ -949,16 +1065,17 @@
         "Titel": "Pusterich",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "3 Einzelst\u00fccke, Negativform (Gips, Silikon, Gummiringe) und Positivform (Gie\u00dfwachs)Ma\u0156e1: 16 x 29 x 20 cm / 2: 24 x 17 x 14 cm / 3: 41 x 22 x 33 cm",
+        "Material": "3 Einzelst\u00fccke, Negativform (Gips, Silikon, Gummiringe) und Positivform (Gie\u00dfwachs)",
+        "Ma\u00dfe": "1: 16 x 29 x 20 cm / 2: 24 x 17 x 14 cm / 3: 41 x 22 x 33 cm",
         "Signatur": "unsigniertAnzahl         3 Einzelst\u00fccke",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Atelier, Barbara Bernoully Frankfurt.Foto",
+        "Standort": "Atelier, Barbara Bernoully Frankfurt.",
         "Ausstellung": "Opel-Villen, beziehungsweise...,   R\u00fcsselsheim 1998",
         "Bibliographie": "Jahresgaben Frankfurter Kunstverein 1997",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1429.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1429.gif.webp"
             }
         ]
     },
@@ -967,16 +1084,18 @@
         "Titel": "Bronze-Dummy",
         "Jahr": "1990",
         "Werkgruppe": "Objekt",
-        "Material": "Voll-BronzeMa\u0156eMa\u0156e einer Betacam Video-Cassette: 9,5 x 11,5 x 4 cm",
-        "Signatur": "signiertAnzahlAuflage von 110 Exemplaren, die f\u00fcr die Firma Sony gemacht wurden",
+        "Material": "Voll-Bronze",
+        "Ma\u00dfe": "Ma\u00dfe einer Betacam Video-Cassette: 9,5 x 11,5 x 4 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Auflage von 110 Exemplaren, die f\u00fcr die Firma Sony gemacht wurden",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Sony Deutschland an KundenFoto",
+        "Standort": "Sony Deutschland an Kunden",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1415.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1415.gif.webp"
             }
         ]
     },
@@ -985,13 +1104,15 @@
         "Titel": "Urlaubsaltar",
         "Jahr": "1973",
         "Werkgruppe": "Objekt",
-        "Material": "Bemalter Holzsetzkasten mit eingearbeiteten Metallunterteilungen und angesetzten Holzfl\u00fcgeln auf einem Holzsockel, in den Feldern:Sonnenbrille, Muscheln (jede istgesondert bearbeitet)Ma\u0156egeschlossen: 38x14x11cm, ge\u00f6ffnet:35,5cm breit",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjekt",
+        "Material": "Bemalter Holzsetzkasten mit eingearbeiteten Metallunterteilungen und angesetzten Holzfl\u00fcgeln auf einem Holzsockel, in den Feldern:Sonnenbrille, Muscheln (jede istgesondert bearbeitet)",
+        "Ma\u00dfe": "geschlossen: 38x14x11cm, ge\u00f6ffnet:35,5cm breit",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1373.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1373.gif.webp"
             }
         ]
     },
@@ -1000,13 +1121,15 @@
         "Titel": "H\u00fcgelkette A/B/C/D",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "drei der vier Objekte bestehen aus bemalter Keramik, eines besteht aus be-maltem KunststoffMa\u0156eH\u00f6he je 12 cm",
-        "Signatur": "seitlich untenAnzahlSerie bestehend aus vier Einzelobjekten",
+        "Material": "drei der vier Objekte bestehen aus bemalter Keramik, eines besteht aus be-maltem Kunststoff",
+        "Ma\u00dfe": "H\u00f6he je 12 cm",
+        "Signatur": "seitlich unten",
+        "Anzahl": "Serie bestehend aus vier Einzelobjekten",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1367.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1367.gif.webp"
             }
         ]
     },
@@ -1015,13 +1138,15 @@
         "Titel": "Pater Noster",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter TonMa\u0156e16 x 75 x 16cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton",
+        "Ma\u00dfe": "16 x 75 x 16cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "zerst\u00f6rt",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1401.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1401.gif.webp"
             }
         ]
     },
@@ -1030,16 +1155,18 @@
         "Titel": "Akte Noah",
         "Jahr": "1989",
         "Werkgruppe": "Objekt",
-        "Material": "Ordner mit durchsichtigem Deckblatt und schwarzer R\u00fcckseite, eingelegt ein Bibeltext und ein aus Papier gefalteter Schiffshut, B\u00fcroklammer als H\u00e4ngevorrichtungMa\u0156e31,2 x 24,7 cm",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjekt",
+        "Material": "Ordner mit durchsichtigem Deckblatt und schwarzer R\u00fcckseite, eingelegt ein Bibeltext und ein aus Papier gefalteter Schiffshut, B\u00fcroklammer als H\u00e4ngevorrichtung",
+        "Ma\u00dfe": "31,2 x 24,7 cm",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Harlekin Art, Wiesbaden 1989",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1752.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1752.gif.webp"
             }
         ]
     },
@@ -1048,14 +1175,16 @@
         "Titel": "Der K\u00fcnstler ist anwesend",
         "Jahr": "1990",
         "Werkgruppe": "Objekt",
-        "Material": "wei\u00dfer Karton mit schwarzer Schrift:EGO TRIP-WORT-BILD, sowie aufmontierter TonbandstreifenMa\u0156e32,5 x 10 cm",
-        "Signatur": "je unten rechtsAnzahlAuflage von 16",
+        "Material": "wei\u00dfer Karton mit schwarzer Schrift:EGO TRIP-WORT-BILD, sowie aufmontierter Tonbandstreifen",
+        "Ma\u00dfe": "32,5 x 10 cm",
+        "Signatur": "je unten rechts",
+        "Anzahl": "Auflage von 16",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Ausstellung": "Wilhelm-Hack-Museum, WORT-BILD, Ludwigshafen 1990",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1746.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1746.gif.webp"
             }
         ]
     },
@@ -1064,16 +1193,18 @@
         "Titel": "Gesichtsb\u00fcgel",
         "Jahr": "1987/88",
         "Werkgruppe": "Objekt",
-        "Material": "6 Kleiderb\u00fcgeln, die zu Portraits der Freunde gebogen wurdenMa\u0156eca. je B\u00fcgel: 40 x 25 cm / Ma\u0156e der Stange: 176 x 122 x  80 cm",
-        "Signatur": "unsigniertAnzahlSerie, bestehend aus 6Exemplaren",
+        "Material": "6 Kleiderb\u00fcgeln, die zu Portraits der Freunde gebogen wurden",
+        "Ma\u00dfe": "ca. je B\u00fcgel: 40 x 25 cm / Ma\u00dfe der Stange: 176 x 122 x  80 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Serie, bestehend aus 6Exemplaren",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "ZKM Karlsruhe, in Materialsammlung G. J. Lischka, BernFoto",
+        "Standort": "ZKM Karlsruhe, in Materialsammlung G. J. Lischka, Bern",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1418.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1418.gif.webp"
             }
         ]
     },
@@ -1082,16 +1213,18 @@
         "Titel": "Blaue Blume",
         "Jahr": "1989",
         "Werkgruppe": "Objekt",
-        "Material": "Bleirohr mit einem Fu\u0156 aus Blei und blauem Pigment auf dem Rohrabschlu\u00dfMa\u0156e125 x 30 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Bleirohr mit einem Fu\u00df aus Blei und blauem Pigment auf dem Rohrabschlu\u00df",
+        "Ma\u00dfe": "125 x 30 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1424.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1424.gif.webp"
             }
         ]
     },
@@ -1100,16 +1233,18 @@
         "Titel": "Brandmalerei mit Leuchtendem Vorbild - Gustav Mahler verwandelt als Untergrund einer Zeichnung f\u00fcr die Ausstellung \u201eKnusper, knusper, kn\u00e4uschen\u201c in Bad Nauheim 2017",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", BrandmalereiMa\u0156e100 x 140 cm",
-        "Signatur": "signiertAnzahlEinzelobjekt / Serie: Holzkasten-Vorbilder",
+        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei",
+        "Ma\u00dfe": "100 x 140 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten-Vorbilder",
         "Beschreibung": "Die Arbeit hatte ihren Ursprung in der Arbeit f\u00fcr die \"G\u00f6ttinger Sieben\". Dort benutzte Kutscher ein Holzmodell mit \"Leuchtenden Vorbildern\". Kutscher geht mit den Brandmalereien in das Material \"hinein\". Diese Form des k\u00fcnstlerischen Umgangs hat keinen guten Ruf, da sie benutzt wird f\u00fcr Kunsthandwerkeleien, wie Schl\u00fcsselbrettchen etc. Um die Leichtigkeit der \"Leuchtenden Vorbilder\" mit dem Hintergrund zu kombinieren - in einen Dialog zu treten -, bearbeitete Kutscher den Untergrund und stellte das \"Leuchtende Vorbild\" daneben. Diese Arbeiten stellen einen \u00e4sthetischen Bruch mit der bisherigen Pr\u00e4sentation der \"Leuchtenden Vorbilder\" dar.",
         "Zustand": "\u00fcberarbeitet",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Art Frankfurt 1997",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1430.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1430.gif.webp"
             }
         ]
     },
@@ -1118,13 +1253,15 @@
         "Titel": "Garagen",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, bemalt mit verschiedenfarbigen LackstiftenMa\u0156e18 x 45 x 8 cm",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton, bemalt mit verschiedenfarbigen Lackstiften",
+        "Ma\u00dfe": "18 x 45 x 8 cm",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1381.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1381.gif.webp"
             }
         ]
     },
@@ -1133,14 +1270,16 @@
         "Titel": "Blechdosen-Kaugummi",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummi in einer BlechdoseMa\u0156e10 x 6 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt/Serie: Kaugummiarbeiten",
+        "Material": "Kaugummi in einer Blechdose",
+        "Ma\u00dfe": "10 x 6 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt/Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1395.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1395.gif.webp"
             }
         ]
     },
@@ -1150,13 +1289,14 @@
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
         "Material": "Kaugummi aufDia-Rahmen montiert undim Dia-Kasteneinsortiert",
-        "Signatur": "unsigniertAnzahlSerie bestehend aus 7 Dias imKasten/Serie: Kaugummiarbeiten",
+        "Signatur": "unsigniert",
+        "Anzahl": "Serie bestehend aus 7 Dias imKasten/Serie: Kaugummiarbeiten",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten,Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1394.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1394.gif.webp"
             }
         ]
     },
@@ -1165,13 +1305,15 @@
         "Titel": "Bett mit Liebespaar",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, rot/wei\u00df lackiertMa\u0156e10 x 23 x 19 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt (besteht aus 4 Tonst\u00fccken)",
+        "Material": "gebrannter Ton, rot/wei\u00df lackiert",
+        "Ma\u00dfe": "10 x 23 x 19 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt (besteht aus 4 Tonst\u00fccken)",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1380.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1380.gif.webp"
             }
         ]
     },
@@ -1180,15 +1322,17 @@
         "Titel": "Wort Bruch - Martin Heidegger",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", BrandmalereiMa\u0156e100 x 140 cm",
-        "Signatur": "signiert R\u00fcckseiteAnzahlEinzelobjekt / Serie: Holzkasten-Vorbilder",
+        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei",
+        "Ma\u00dfe": "100 x 140 cm",
+        "Signatur": "signiert R\u00fcckseite",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten-Vorbilder",
         "Beschreibung": "die Holzplatte mit der verbrannten Schrift ist aufgehackt",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Art Frankfurt 1997, Kunsthalle F\u00fcrth, 2o15?Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1431.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1431.gif.webp"
             }
         ]
     },
@@ -1197,15 +1341,17 @@
         "Titel": "K\u00f6nigin von Saba - Studie",
         "Jahr": "1996 / 97",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter TonMa\u0156e36 x 30 x 23 cm",
-        "Signatur": "unten rechtsAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton",
+        "Ma\u00dfe": "36 x 30 x 23 cm",
+        "Signatur": "unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Ausstellung": "Kestner Gesellschaft,Immer Vorw\u00e4rts,Hannover 1998",
         "Bibliographie": "Kestner Gesellschaft,Immer Vorw\u00e4rts(Kat),Carl Haenlein (ed.) Hannover 1998",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1425.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1425.gif.webp"
             }
         ]
     },
@@ -1214,16 +1360,18 @@
         "Titel": "Gunter G\u00f6ring-Hirnhelm",
         "Jahr": "1991",
         "Werkgruppe": "Objekt",
-        "Material": "2-teilige Negativform aus Aluminium auf Stahlspiegel, SockelMa\u0156eSockel: 40 x 40 x 30 cm / Form: 13 x 20 x 25 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie:  Portaitinstallation  Gunter G\u00f6ring",
+        "Material": "2-teilige Negativform aus Aluminium auf Stahlspiegel, Sockel",
+        "Ma\u00dfe": "Sockel: 40 x 40 x 30 cm / Form: 13 x 20 x 25 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie:  Portaitinstallation  Gunter G\u00f6ring",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Vollrad Kutscher, Kunstmuseum Bern 1989. Opel-Villen, beziehungsweise...,  R\u00fcsselsheim 1998.",
         "Bibliographie": "Kunstmuseum Bern, Vollrad Kutscher (Katalog), Bern 1989. Museum Wiesbaden, Oktogon (Katalog), Wiesbaden 1990. Volker Rattemeyer, Von der Unm\u00f6glichkeit ein Portrait zu machen, in: K\u00fcnstler, Kritisches Lexikon der Gegenwartskunst, Ausgabe 39, M\u00fcnchen 1998",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1419.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1419.gif.webp"
             }
         ]
     },
@@ -1232,16 +1380,18 @@
         "Titel": "Akte Klassen",
         "Jahr": "24.6.1998",
         "Werkgruppe": "Objekt",
-        "Material": "brauner Aktenordner, eingelegt ein zerplatzter Luftballon mit dem Portrait Klassens sowie einer Fotografie von ihmMa\u0156e32 x 25 cm",
-        "Signatur": "R\u00fcckseite, unten rechtsAnzahlEinzelobjekt / Serie: Norbert Klassen",
+        "Material": "brauner Aktenordner, eingelegt ein zerplatzter Luftballon mit dem Portrait Klassens sowie einer Fotografie von ihm",
+        "Ma\u00dfe": "32 x 25 cm",
+        "Signatur": "R\u00fcckseite, unten rechts",
+        "Anzahl": "Einzelobjekt / Serie: Norbert Klassen",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Performance- Material f\u00fcr die Ausstellung Opel-Villen, beziehungsweise..., R\u00fcsselsheim 1998",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1751.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1751.gif.webp"
             }
         ]
     },
@@ -1249,15 +1399,17 @@
         "Inv. Nr.": "OB1369",
         "Titel": "\"Begriffskoffer\"",
         "Jahr": "1969Werk-gruppeObjekt",
-        "Material": "Koffer, darin sind 20 Holzst\u00e4be montiert, diese tragen Pappmaschee-kugeln,die mit Lackstift und Kugelschreiber bemalt sindMa\u0156eMa\u0156e des Koffers: 20 x 60,5 x 40 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Koffer, darin sind 20 Holzst\u00e4be montiert, diese tragen Pappmaschee-kugeln,die mit Lackstift und Kugelschreiber bemalt sind",
+        "Ma\u00dfe": "Ma\u00dfe des Koffers: 20 x 60,5 x 40 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1369.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1369.gif.webp"
             }
         ]
     },
@@ -1266,15 +1418,17 @@
         "Titel": "One Dollar Bill - Washington verwandelt als Untergrund einer Zeichnung f\u00fcr die Ausstellung \u201eKnusper, knusper, kn\u00e4uschen\u201c in Bad Nauheim 2017",
         "Jahr": "1997/2017",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei, schwarz \u00fcbermalt und \u00fcberzeichnetMa\u0156e100 x 140 cm",
-        "Signatur": "signiert R\u00fcckseiteAnzahlEinzelobjekt / Serie: Holzkasten-Vorbild",
+        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei, schwarz \u00fcbermalt und \u00fcberzeichnet",
+        "Ma\u00dfe": "100 x 140 cm",
+        "Signatur": "signiert R\u00fcckseite",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten-Vorbild",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Art Frankfurt 1997. Chicago art fair, Chicago 1997, Kunstverein Bd Nauheim 2017Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1433.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1433.gif.webp"
             }
         ]
     },
@@ -1283,13 +1437,15 @@
         "Titel": "Mundst\u00fcck",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "Vollbronze-GuMa\u0156e15 x 16 x 8 cm",
-        "Signatur": "unsigniertAnzahlEinzelst\u00fcck",
+        "Material": "Vollbronze-Gu",
+        "Ma\u00dfe": "15 x 16 x 8 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelst\u00fcck",
         "Zustand": "sehr gut",
         "Standort": "Atelier",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1427.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1427.gif.webp"
             }
         ]
     },
@@ -1298,16 +1454,18 @@
         "Titel": "Kleinstskulpturen und Testreihen",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "kleine Tomatenmark-B\u00fcchsen \"Mon Jardin\" mit farbigem Kaugummi, Plastikschachteln mit kleinen Figuren und Kreuzen sowie kleinen Holzsockeln mit verscheiden Portraits aus Kaugummi darinMa\u0156ediverse",
-        "Signatur": "unsigniertAnzahlSerie bestehend aus 30 Einzelobjekten / Serie: Testreihen - Kaugummiarbeiten",
+        "Material": "kleine Tomatenmark-B\u00fcchsen \"Mon Jardin\" mit farbigem Kaugummi, Plastikschachteln mit kleinen Figuren und Kreuzen sowie kleinen Holzsockeln mit verscheiden Portraits aus Kaugummi darin",
+        "Ma\u00dfe": "diverse",
+        "Signatur": "unsigniert",
+        "Anzahl": "Serie bestehend aus 30 Einzelobjekten / Serie: Testreihen - Kaugummiarbeiten",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1396.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1396.gif.webp"
             }
         ]
     },
@@ -1316,14 +1474,16 @@
         "Titel": "Amerikanische Flagge",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Farbiger Kaugummi auf HartfaserplatteMa\u0156e15 x 26 cm",
-        "Signatur": "R\u00fcckseiteAnzahlEinzelobjekt/Serie: Kaugummiarbeiten",
+        "Material": "Farbiger Kaugummi auf Hartfaserplatte",
+        "Ma\u00dfe": "15 x 26 cm",
+        "Signatur": "R\u00fcckseite",
+        "Anzahl": "Einzelobjekt/Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Privatbesitz: Erich Ganzert Castrillo",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1382.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1382.gif.webp"
             }
         ]
     },
@@ -1331,15 +1491,17 @@
         "Inv. Nr.": "OB1383",
         "Titel": "Amerikanische Flagge - Hommage \u0157 Jasper Johns",
         "Jahr": "1978Werk-gruppeObjekt",
-        "Material": "Farbiger Kaugummi, Kunstharzfarbe, Bleistift. Papierauf LeinwandMa\u0156e65 x 100 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt/Serie: Kaugummiarbeiten",
+        "Material": "Farbiger Kaugummi, Kunstharzfarbe, Bleistift. Papierauf Leinwand",
+        "Ma\u00dfe": "65 x 100 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt/Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Museum Wiesbaden",
         "Ausstellung": "Museum Wiesbaden, Das besondere Bild - im Museum Wiesbaden, Wiesbaden 1988",
         "Bibliographie": "Museum Wiesbaden, Das besondere Bild - im Museum Wiesbaden (Katalog), Text: Ulrich Meyer-Husmann, Wiesbaden 1988",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1383.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1383.gif.webp"
             }
         ]
     },
@@ -1348,13 +1510,15 @@
         "Titel": "\"Puppenstube\"",
         "Jahr": "1970",
         "Werkgruppe": "Objekt",
-        "Material": "Holzkiste mit KeramikfigurenMa\u0156e30 x 30 cm, Kiste ge\u00f6ffnet: 60 cm breit",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Holzkiste mit Keramikfiguren",
+        "Ma\u00dfe": "30 x 30 cm, Kiste ge\u00f6ffnet: 60 cm breit",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Sammlung Michael Berger",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1397.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1397.gif.webp"
             }
         ]
     },
@@ -1363,15 +1527,17 @@
         "Titel": "Mundst\u00fcck",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton / Kutscher kombiniert bei dieser Arbeit Vorder- und R\u00fcckseite eines Mundes. Im Vordergrund steht der \"Doppelmund\".Ma\u0156e15 x 16 x 8 cm",
-        "Signatur": "unsigniertAnzahlEinzelst\u00fcckBeschreibung  -",
+        "Material": "gebrannter Ton / Kutscher kombiniert bei dieser Arbeit Vorder- und R\u00fcckseite eines Mundes. Im Vordergrund steht der \"Doppelmund\".",
+        "Ma\u00dfe": "15 x 16 x 8 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelst\u00fcckBeschreibung  -",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Opel-Villen, beziehungsweise, R\u00fcsselsheim 1998",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1426.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1426.gif.webp"
             }
         ]
     },
@@ -1380,16 +1546,18 @@
         "Titel": "Five Dollar Bill - Lincoln",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", BrandmalereiMa\u0156e100 x 140 cm",
-        "Signatur": "signiert R\u00fcckseiteAnzahlEinzelobjekt / Serie: Holzkasten-Vorbilder",
+        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei",
+        "Ma\u00dfe": "100 x 140 cm",
+        "Signatur": "signiert R\u00fcckseite",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten-Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Federal Reserve Board, Washington, U.S.A.Foto",
+        "Standort": "Federal Reserve Board, Washington, U.S.A.",
         "Ausstellung": "Art Frankfurt 1997. Chicago art fair, Chicago, 1997",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1432.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1432.gif.webp"
             }
         ]
     },
@@ -1398,16 +1566,18 @@
         "Titel": "Litfa\u00dfs\u00e4ule",
         "Jahr": "1969",
         "Werkgruppe": "Objekt",
-        "Material": "gebrannter Ton, mit verschiedenfarbigen Lackstiften bemaltMa\u0156e30 x 11 cm",
-        "Signatur": "Seitlich untenAnzahlEinzelobjekt",
+        "Material": "gebrannter Ton, mit verschiedenfarbigen Lackstiften bemalt",
+        "Ma\u00dfe": "30 x 11 cm",
+        "Signatur": "Seitlich unten",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1368.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1368.gif.webp"
             }
         ]
     },
@@ -1416,15 +1586,17 @@
         "Titel": "Brandmalerei mit Leuchtendem Vorbild - Rene Magritte verwandelt als Untergrund einer Zeichnung f\u00fcr die Ausstellung \u201eKnusper, knusper, kn\u00e4uschen\u201c in Bad Nauheim 2017",
         "Jahr": "1997/2017",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei, Schwarz \u00dcbermalt und \u00fcberzeichnetMa\u0156e140 x 100 cm",
-        "Signatur": "signiert R\u00fcckseiteAnzahlEinzelobjekt / Serie: Holzkasten-Vorbilder",
+        "Material": "Sperrholzkasten mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei, Schwarz \u00dcbermalt und \u00fcberzeichnet",
+        "Ma\u00dfe": "140 x 100 cm",
+        "Signatur": "signiert R\u00fcckseite",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten-Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Art Frankfurt 1997, Knuspre,knuper, kn\u00e4uschen..Kunstverein Bad Nauheim, 2017Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1436.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1436.gif.webp"
             }
         ]
     },
@@ -1433,16 +1605,18 @@
         "Titel": "Ursprungsei",
         "Jahr": "1996",
         "Werkgruppe": "Objekt",
-        "Material": "Halogenlampe, handbemalt. Gips-Ei, wachsversiegelt, Trafo und Sockel.Ma\u0156eca. 20 x 30 x 20 cm",
-        "Signatur": "Bleistift auf EiAnzahlAuflage von f\u00fcnf und einem Exemplar",
+        "Material": "Halogenlampe, handbemalt. Gips-Ei, wachsversiegelt, Trafo und Sockel.",
+        "Ma\u00dfe": "ca. 20 x 30 x 20 cm",
+        "Signatur": "Bleistift auf Ei",
+        "Anzahl": "Auflage von f\u00fcnf und einem Exemplar",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Teutloff, Schwarze Madonna von Passau, K\u00f6ln 1996.Opel-Villen,  beziehungsweise..., R\u00fcsselsheim 1998",
         "Bibliographie": "Lenbachhaus, Schwarze Madonna von Passau (Katalog) Lenbachhaus, M\u00fcnchen 1996",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1422.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1422.gif.webp"
             }
         ]
     },
@@ -1451,12 +1625,14 @@
         "Titel": "Bronze-Altar",
         "Jahr": "1973",
         "Werkgruppe": "Objekt",
-        "Material": "Wachsausschmelzverfahren, BronzeMa\u0156e19 x 13 x 8,5 cm, ge\u00f6ffnet:22 cm breit",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Material": "Wachsausschmelzverfahren, Bronze",
+        "Ma\u00dfe": "19 x 13 x 8,5 cm, ge\u00f6ffnet:22 cm breit",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gutStandort      gestohlen aus dem Atelier in Niederrad",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1378.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1378.gif.webp"
             }
         ]
     },
@@ -1465,16 +1641,18 @@
         "Titel": "Materialpr\u00fcfung",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummi und BleiMa\u0156e70 x 87 x 14 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Kaugummiarbeiten",
+        "Material": "Kaugummi und Blei",
+        "Ma\u00dfe": "70 x 87 x 14 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Kaugummiarbeiten",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1393.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1393.gif.webp"
             }
         ]
     },
@@ -1483,30 +1661,34 @@
         "Titel": "Kaugummi - Schmetterling",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummi im GlasrahmenMa\u0156e18 x 19,5 x 3,5 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Kaugummiarbeiten",
+        "Material": "Kaugummi im Glasrahmen",
+        "Ma\u00dfe": "18 x 19,5 x 3,5 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Kaugummiarbeiten",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1387.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1387.gif.webp"
             }
         ]
     },
     {
         "Inv. Nr.": "OB1386",
         "Titel": "Mythische kleine Studien im Kasten",
-        "Jahr": "1976Werk-gruppeObjektMaterial Kaugummi, Mullbinden und Hasenfell in einer goldgerahmten KisteMa\u0156e17 x 12 x 4,5 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Kaugummiarbeiten",
+        "Jahr": "1976Werk-gruppeObjektMaterial Kaugummi, Mullbinden und Hasenfell in einer goldgerahmten Kiste",
+        "Ma\u00dfe": "17 x 12 x 4,5 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten,Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1386.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1386.gif.webp"
             }
         ]
     },
@@ -1516,14 +1698,15 @@
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
         "Material": "Kaugummi, bearbeitet, Kaugummipapier, diverse Materialien in einem Objektkasten montiert",
-        "Signatur": "unsigniertAnzahlEinzelobjekt/Serie: Kaugummiarbeiten",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt/Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten,Wiesbaden 1976. Wilhelm-Hack-Museum,Geschmacksache-Kunst als Lebensmittel, Ludwigshafen 1986",
         "Bibliographie": "Wilhelm Hack-Museum, Geschmacksache-Kunst als Lebensmittel (Katalog) Ludwigsburg 1986",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1392.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1392.gif.webp"
             }
         ]
     },
@@ -1533,12 +1716,13 @@
         "Jahr": "1972",
         "Werkgruppe": "Objekt",
         "Material": "Bronzetechnik/dargestellt ist die Gesellschaft, wiesie von den\"68ern\"gesehen worden war:100 gereihte K\u00f6pfe (Bisch\u00f6fe,Politiker, etc. )auf einer ca.20x20cm schr\u00e4gen Fl\u00e4che.Der Block wird umringt von Polizisten. Die  Arbeit lief unter falschen Namen.(Oskar Schmitz)",
-        "Signatur": "unsigniertAnzahlEinzelobjekt",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "gut",
         "Standort": "Privatbesitz(Prof. Lambert, Mainz)",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1379.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1379.gif.webp"
             }
         ]
     },
@@ -1546,14 +1730,16 @@
         "Inv. Nr.": "OB1423",
         "Titel": "Norbert Klassen mit geschlossenen Augen",
         "Jahr": "1991",
-        "Werkgruppe": "ObjektMaterial Gipsform, bemaltMa\u0156e70 x 25 x 25 cm",
-        "Signatur": "signiertAnzahlEinzelobjekt",
+        "Werkgruppe": "ObjektMaterial Gipsform, bemalt",
+        "Ma\u00dfe": "70 x 25 x 25 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt",
         "Zustand": "sehr gut",
         "Standort": "Privatbesitz: Norbert Klassen",
         "Bibliographie": "Kestner Gesellschaft, Immer Vorw\u00e4rts(Kat),Carl Haenlein (ed.), Hannover 1998",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1423.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1423.gif.webp"
             }
         ]
     },
@@ -1562,15 +1748,17 @@
         "Titel": "Brandmalerei mit Leuchtendem Vorbild - Heinrich Heine",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholzkasten mit Trafo und Aluminim-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", BrandmalereiMa\u0156e140 x 100 cm",
-        "Signatur": "signiertAnzahlEinzelobjekt / Serie: Holzkasten-Vorbilder",
+        "Material": "Sperrholzkasten mit Trafo und Aluminim-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei",
+        "Ma\u00dfe": "140 x 100 cm",
+        "Signatur": "signiert",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten-Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Art Frankfurt 1997. Chicago art fair, Chicago 1997.Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1437.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1437.gif.webp"
             }
         ]
     },
@@ -1578,8 +1766,10 @@
         "Inv. Nr.": "OB1421",
         "Titel": "Norbert Klassen - Innenmaske",
         "Jahr": "1991Werk-gruppeObjekt",
-        "Material": "BronzeMa\u0156e50 x 20 x 20 cm",
-        "Signatur": "unsigniertAnzahlAuflage von drei",
+        "Material": "Bronze",
+        "Ma\u00dfe": "50 x 20 x 20 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Auflage von drei",
         "Beschreibung": "Die Markierungen des Gipses sowie der Abdruck eines kleinen Briefchens wurden mit abgegossen.",
         "Zustand": "sehr gut",
         "Standort": "3 in Privatbesitz.1 Exemplar beim K\u00fcnstler",
@@ -1587,7 +1777,7 @@
         "Bibliographie": "Kestner Gesellschaft, Immer Vorw\u00e4rts(Kat.), Carl Haenlein (ed.),Hannover 1998",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1421.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1421.gif.webp"
             }
         ]
     },
@@ -1596,15 +1786,17 @@
         "Titel": "Selbstportraitkoffer \"movie\"",
         "Jahr": "1986",
         "Werkgruppe": "Objekt",
-        "Material": "Modelleisenbahn, Koffer, bemalte Gl\u00fchbirneMa\u0156eKoffer 40 x 50 x 10 cm / andere Ma\u0156e variabel",
-        "Signatur": "unsigniertAnzahl4 Koffer-Exemplare",
+        "Material": "Modelleisenbahn, Koffer, bemalte Gl\u00fchbirne",
+        "Ma\u00dfe": "Koffer 40 x 50 x 10 cm / andere Ma\u00dfe variabel",
+        "Signatur": "unsigniert",
+        "Anzahl": "4 Koffer-Exemplare",
         "Beschreibung": "der erste Koffer geh\u00f6rt zur Installation Selbstportr\u00e4t von 1985/6, der Rest war als Auflage geplant",
         "Zustand": "sehr gut",
-        "Standort": "Atelier, Kunstmuseum Celle mit Sammlung Robert SimonFoto",
+        "Standort": "Atelier, Kunstmuseum Celle mit Sammlung Robert Simon",
         "Ausstellung": "Kunstmuseum Bern, Vollrad Kutscher, Bern 1989. Museum Wiesbaden, Oktogon, Wiesbaden 1990. Airport Galerie, Alle  Koffer fliegen hoch, Frankfurt/M. 1993. Galerie der Stadt Esslingen, st\u00e4dt. Galerie G\u00f6ppingen, M\u00e4rklin Museum G\u00f6ppingen, Die Eisenbahn in der zeitgen\u00f6ssischen Kunst, Esslingen, G\u00f6ppingen 1994. Kestner Gesellschaft, Immer Vorw\u00e4rts, Hannover 1998, Kunstmuseum Celle 2016Bibliographie Kunstmuseum Bern, Vollrad Kutscher (Katalog), Bern 1989. Museum Wiesbaden,  Oktogon (Katalog), Wiesbaden 1990. Bien und Gierscch, Projektagentur, Alle Koffer fliegen hoch (Katalog), Frankfurt/M. 1993. Werner Meyer, Renate Damsch-Wiehager (ed.), Die Eisenbahn in der zeitgen\u00f6ssischen Kunst (Katalog), Ostfildern/Ruit 1994. Volker Rattemeyer, Von der Unm\u00f6glichkeit ein Portrait zu machen, in: K\u00fcnstler, Kritisches Lexikon der Gegenwartskunst, Ausgabe 39, M\u00fcnchen. Kestner Gesellschaft, Immer Vorw\u00e4rts (Katalog), Carl Haenlein (ed.), Hannover 1998",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1409.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1409.gif.webp"
             }
         ]
     },
@@ -1613,14 +1805,16 @@
         "Titel": "Kaugummi-Mann-Koffer",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummi,Fotografien, Pistole in einem alten  Musterkoffer montiertMa\u0156evariabel",
-        "Signatur": "unsigniertAnzahlEinzelobjekt/Serie:  Kaugummiarbeiten",
+        "Material": "Kaugummi,Fotografien, Pistole in einem alten  Musterkoffer montiert",
+        "Ma\u00dfe": "variabel",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt/Serie:  Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Privatbesitz, Michael Berger",
         "Ausstellung": "Galerie Space,Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1384.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1384.gif.webp"
             }
         ]
     },
@@ -1629,16 +1823,18 @@
         "Titel": "Frische Schlundmurgeln",
         "Jahr": "1976 / reaktiviert 1985",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummi auf Fotopapier montiert, die Arbeit besteht aus zwei TeilenMa\u0156e-",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Kaugummiarbeiten",
+        "Material": "Kaugummi auf Fotopapier montiert, die Arbeit besteht aus zwei Teilen",
+        "Ma\u00dfe": "-",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Kaugummiarbeiten",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976. Allgemeine  Frankfurter Ersatzkunst,  Frankfurt 1985",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1390.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1390.gif.webp"
             }
         ]
     },
@@ -1647,16 +1843,18 @@
         "Titel": "\"Stilleben\"",
         "Jahr": "1976",
         "Werkgruppe": "Objekt",
-        "Material": "Kaugummi im Objektrahmen, unter freundlicher Mitarbeit von Dr. MausMa\u0156e44,5 x 39 x 6 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Kaugummiarbeiten",
+        "Material": "Kaugummi im Objektrahmen, unter freundlicher Mitarbeit von Dr. Maus",
+        "Ma\u00dfe": "44,5 x 39 x 6 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Kaugummiarbeiten",
         "Beschreibung": "-",
         "Zustand": "gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten, Wiesbaden 1976",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1391.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1391.gif.webp"
             }
         ]
     },
@@ -1664,13 +1862,14 @@
         "Inv. Nr.": "OB1385",
         "Titel": "Krumme Hunde",
         "Jahr": "1976Werk-gruppeObjektMaterial Kaugummi in Zigarrenkiste, Im Inneren des Kisten-Deckel ein Band mit den deutschen Nationalfarben",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Kaugummiarbeiten",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Kaugummiarbeiten",
         "Zustand": "gut",
         "Standort": "Privatbesitz",
         "Ausstellung": "Galerie Space, Fr\u00f6hliche Weihnachten,Wiesbaden 1976",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1385.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1385.gif.webp"
             }
         ]
     },
@@ -1679,13 +1878,15 @@
         "Titel": "Prophet",
         "Jahr": "1984",
         "Werkgruppe": "Objekt",
-        "Material": "Assemblage: Birkenstamm, Transistorradio, Kabel, Netzger\u0161t,diverses RauschenMa\u0156e200 x 20 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjektZustand  zerst\u00f6rt",
+        "Material": "Assemblage: Birkenstamm, Transistorradio, Kabel, Netzger\u0161t,diverses Rauschen",
+        "Ma\u00dfe": "200 x 20 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "EinzelobjektZustand  zerst\u00f6rt",
         "Ausstellung": "Hessischer Rundfunk, Marilies-Hess-Stiftung, Hommage an die Musik,Frankfurt/M. 1988/89",
         "Bibliographie": "Marilies-Hess-Stiftung(ed.), Hommage an die Musik (Katalog), Frankfurt 1988",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1408.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1408.gif.webp"
             }
         ]
     },
@@ -1694,15 +1895,17 @@
         "Titel": "Brandmalerei mit Leuchtendem Vorbild - G\u00f6bel und Edison",
         "Jahr": "1997",
         "Werkgruppe": "Objekt",
-        "Material": "Sperrholz mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", BrandmalereiMa\u0156e140 x 100 cm",
-        "Signatur": "signiert R\u00fcckseiteAnzahlEinzelobjekt / Serie: Holzkasten - Vorbilder",
+        "Material": "Sperrholz mit Trafo und Aluminium-Halterung f\u00fcr ein \"Leuchtendes Vorbild\", Brandmalerei",
+        "Ma\u00dfe": "140 x 100 cm",
+        "Signatur": "signiert R\u00fcckseite",
+        "Anzahl": "Einzelobjekt / Serie: Holzkasten - Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "AtelierFoto",
+        "Standort": "Atelier",
         "Ausstellung": "Art Frankfurt 1997. Chicago art fair, Chicago 1997Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1434.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1434.gif.webp"
             }
         ]
     },
@@ -1711,15 +1914,17 @@
         "Titel": "Norbert Klassen Portrait",
         "Jahr": "1991",
         "Werkgruppe": "Objekt",
-        "Material": "BronzeMa\u0156e43 x 18 x 17 cm",
-        "Signatur": "unsigniertAnzahlAuflage von drei",
+        "Material": "Bronze",
+        "Ma\u00dfe": "43 x 18 x 17 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Auflage von drei",
         "Zustand": "sehr gut",
         "Standort": "2 in Privatbesitz (H\u00fcbner, Klassen), 1 Exemplar beim K\u00fcnstler",
         "Ausstellung": "Galerie Ribbentrop, Eltville 1991.Neuer Kunstverein  Aschaffenburg, Einatmen- Ausatmen Aschaffenburg 1993",
         "Bibliographie": "Kestner Gesellschaft, Immer Vorw\u00e4rts (Katalog),Carl Haenlein (ed.), Hannover1998",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1420.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1420.gif.webp"
             }
         ]
     },
@@ -1728,16 +1933,18 @@
         "Titel": "Napoli - Objekt",
         "Jahr": "1994",
         "Werkgruppe": "Objekt",
-        "Material": "Karton-Kiste mit \u00fcberarbeitetem Christus Bild (Schweinekopf aus Ton) und weiteren Miniatur-Tonst\u00fcckenMa\u0156e11 x 14 x 6 cm",
-        "Signatur": "unten rechtsAnzahlEinzelobjekt",
+        "Material": "Karton-Kiste mit \u00fcberarbeitetem Christus Bild (Schweinekopf aus Ton) und weiteren Miniatur-Tonst\u00fccken",
+        "Ma\u00dfe": "11 x 14 x 6 cm",
+        "Signatur": "unten rechts",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: von TavelFoto",
+        "Standort": "Privatbesitz: von Tavel",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1756.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1756.gif.webp"
             }
         ]
     },
@@ -1746,13 +1953,15 @@
         "Titel": "Leuchtende Vorbilder",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: Sammlung BeaufourFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Sammlung Beaufour",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1889.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1889.gif.webp"
             }
         ]
     },
@@ -1761,14 +1970,17 @@
         "Titel": "Leuchtende Vorbilder - Marilyn Monroe",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Nele- RiehleFotoAusstellung   -Bibliographie -",
+        "Standort": "Privatbesitz: Nele- Riehle",
+        "Foto": "Ausstellung   -Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1447.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1447.gif.webp"
             }
         ]
     },
@@ -1777,16 +1989,18 @@
         "Titel": "Leuchtende Vorbilder - Francis Bacon",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "PrivatbesitzFoto",
+        "Standort": "Privatbesitz",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1453.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1453.gif.webp"
             }
         ]
     },
@@ -1794,15 +2008,17 @@
         "Inv. Nr.": "OB1452",
         "Titel": "Leuchtende Vorbilder - Niklaus ManuelJahr          2016",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende VorbilderBeschreibung:Ersatz zum 80. Geburtstag f\u00fcr ein zerst\u00f6rtes Portr\u00e4t von fr\u00fcher-",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende VorbilderBeschreibung:Ersatz zum 80. Geburtstag f\u00fcr ein zerst\u00f6rtes Portr\u00e4t von fr\u00fcher-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: von TavelFoto",
+        "Standort": "Privatbesitz: von Tavel",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1452.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1452.gif.webp"
             }
         ]
     },
@@ -1811,16 +2027,18 @@
         "Titel": "Leuchtende Vorbilder - Virginia Woolf",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Cornelia RegnerFoto",
+        "Standort": "Privatbesitz: Cornelia Regner",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1446.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1446.gif.webp"
             }
         ]
     },
@@ -1829,16 +2047,18 @@
         "Titel": "Pass-par-tout",
         "Jahr": "1988",
         "Werkgruppe": "Objekt",
-        "Material": "Umschlag, au\u00dfen Luminogramm mit dem Portrait der Mickey  Mouse, im Inneren acht oben abgerundete Seiten, geklebt und geheftet mit doppelseitigen Lumminogrammen (Pass f\u00fcr die Mickey Mouse)Ma\u0156e18,1 x 10,5 cm",
-        "Signatur": "innen, rechts untenAnzahlEinzelobjekt",
+        "Material": "Umschlag, au\u00dfen Luminogramm mit dem Portrait der Mickey  Mouse, im Inneren acht oben abgerundete Seiten, geklebt und geheftet mit doppelseitigen Lumminogrammen (Pass f\u00fcr die Mickey Mouse)",
+        "Ma\u00dfe": "18,1 x 10,5 cm",
+        "Signatur": "innen, rechts unten",
+        "Anzahl": "Einzelobjekt",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Gerhard Johann LischkaFoto",
+        "Standort": "Privatbesitz: Gerhard Johann Lischka",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1877.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1877.gif.webp"
             }
         ]
     },
@@ -1847,13 +2067,15 @@
         "Titel": "Leuchtende Vorbilder",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u0156, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: euchtende Vorbilder",
-        "Standort": "Privatbesitz: Sammlung BeaufourFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: euchtende Vorbilder",
+        "Standort": "Privatbesitz: Sammlung Beaufour",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1888.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1888.gif.webp"
             }
         ]
     },
@@ -1862,15 +2084,17 @@
         "Titel": "Leuchtende Vorbilder - Madame Curie",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende VorbilderBeschreibung  -",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende VorbilderBeschreibung  -",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Renate PetzingerFoto",
+        "Standort": "Privatbesitz: Renate Petzinger",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1450.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1450.gif.webp"
             }
         ]
     },
@@ -1879,16 +2103,18 @@
         "Titel": "Leuchtendes Vorbild - Pasolini",
         "Jahr": "1990 - 1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: BOA BaumannFoto",
+        "Standort": "Privatbesitz: BOA Baumann",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1444.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1444.gif.webp"
             }
         ]
     },
@@ -1897,16 +2123,18 @@
         "Titel": "Leuchtendes Vorbild - Beckett",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtendes Vorbild",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtendes Vorbild",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: N. KlassenFoto",
+        "Standort": "Privatbesitz: N. Klassen",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1445.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1445.gif.webp"
             }
         ]
     },
@@ -1915,16 +2143,18 @@
         "Titel": "Leuchtende Vorbilder -Mozart",
         "Jahr": "1990 - 1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Kr\u00fcgerFoto",
+        "Standort": "Privatbesitz: Kr\u00fcger",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1451.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1451.gif.webp"
             }
         ]
     },
@@ -1935,14 +2165,14 @@
         "Werkgruppe": "Objekt",
         "Material": "Bronze, Linsen",
         "Ma\u00dfe": "11 x9,5 x 3cm",
-        "Signatur": "signiertAnzahl",
+        "Signatur": "signiert",
         "Auflage": "94/110",
         "Beschreibung": "Auslagenobjekt f\u00fcr Sony, volle Bronze gestaltet nach einer Betamax Videokassette, durch die zwei Spione in den L\u00f6chern f\u00fcr den \u201eBandtransport\u201c schaut man verfremdet in eine \u201eLiveaufzeichnung\u201c",
         "Zustand": "sehr gut",
         "Standort": "AtelierPrivatbesitz",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1914.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1914.gif.webp"
             }
         ]
     },
@@ -1951,16 +2181,19 @@
         "Titel": "Leuchtende Vorbilder - Friedrich von M\u00fcnchhausen",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "PrivatbesitzFoto-",
+        "Standort": "Privatbesitz",
+        "Foto": "-",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1455.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1455.gif.webp"
             }
         ]
     },
@@ -1969,14 +2202,17 @@
         "Titel": "Leuchtendes Vorbild - Goethe",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "PrivatbesitzFotoAusstellung   -Bibliographie -",
+        "Standort": "Privatbesitz",
+        "Foto": "Ausstellung   -Bibliographie -",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1441.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1441.gif.webp"
             }
         ]
     },
@@ -1985,15 +2221,17 @@
         "Titel": "Leuchtende Vorbilder - Erzherzog Johann",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe mit bemalter GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder + LuminogrammBeschreibung  -",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe mit bemalter Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder + LuminogrammBeschreibung  -",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: RibbentropFoto",
+        "Standort": "Privatbesitz: Ribbentrop",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1440.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1440.gif.webp"
             }
         ]
     },
@@ -2002,16 +2240,18 @@
         "Titel": "Leuchtende Vorbilder - Robert Filliou",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Detlef BluemlerFoto",
+        "Standort": "Privatbesitz: Detlef Bluemler",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1454.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1454.gif.webp"
             }
         ]
     },
@@ -2020,12 +2260,14 @@
         "Titel": "Leuchtende Vorbilder Luther",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Standort": "Privatbesitz: Reinhard Kutscher",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1913.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1913.gif.webp"
             }
         ]
     },
@@ -2034,16 +2276,18 @@
         "Titel": "Leuchtendes Vorbild - Beethoven",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder +Luminogramm",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder +Luminogramm",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: Elisabeth HaindlFoto",
+        "Standort": "Privatbesitz: Elisabeth Haindl",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1442.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1442.gif.webp"
             }
         ]
     },
@@ -2052,16 +2296,18 @@
         "Titel": "Leuchtende Vorbilder - Rudolf von M\u00fcnchhausen",
         "Jahr": "1990 - 1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "PrivatbesitzFoto",
+        "Standort": "Privatbesitz",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1456.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1456.gif.webp"
             }
         ]
     },
@@ -2070,16 +2316,18 @@
         "Titel": "Leuchtende Vorbilder - Pascal",
         "Jahr": "1990 -1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "Privatbesitz: PainvinFoto",
+        "Standort": "Privatbesitz: Painvin",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1457.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1457.gif.webp"
             }
         ]
     },
@@ -2088,16 +2336,18 @@
         "Titel": "Leuchtendes Vorbild - Picasso",
         "Jahr": "1990 - 1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie:  Leuchtende Vorbilder",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie:  Leuchtende Vorbilder",
         "Beschreibung": "-",
         "Zustand": "sehr gut",
-        "Standort": "PrivatbesitzFoto",
+        "Standort": "Privatbesitz",
         "Ausstellung": "-",
         "Bibliographie": "-",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1443.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1443.gif.webp"
             }
         ]
     },
@@ -2106,13 +2356,15 @@
         "Titel": "Leuchtende Vorbilder Shakespeare",
         "Jahr": "1990-1993",
         "Werkgruppe": "Objekt",
-        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte GlaskappeMa\u0156eMa\u00dfe variabel, ca. 200 - 300 cm",
-        "Signatur": "unsigniertAnzahlEinzelobjekt / Serie: Leuchtende Vorbilder",
-        "Standort": "Privatbesitz: Reinhard KutscherFoto",
+        "Material": "Trafo, Aluminiumstab und Fu\u00df, Halogenlampe und bemalte Glaskappe",
+        "Ma\u00dfe": "Ma\u00dfe variabel, ca. 200 - 300 cm",
+        "Signatur": "unsigniert",
+        "Anzahl": "Einzelobjekt / Serie: Leuchtende Vorbilder",
+        "Standort": "Privatbesitz: Reinhard Kutscher",
         "Bibliographie": "",
         "Bild": [
             {
-                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1912.gif"
+                "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/OB1912.gif.webp"
             }
         ]
     }
