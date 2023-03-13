@@ -1,20 +1,19 @@
 Inv. Nr.
 G0001
-
-Titel,        
+Titel
 Agressionskonzentration
 Jahr          
 1969
 Werkgruppe
 Grafik
-Material,      
+Material
 Kaltnadelradierung
-Masse          
+Ma√üe          
 11,5 x 10,5 cm
 Signatur      
 unten rechts
 Auflage       
-3 Blätter / Serie - Befreiung nach der Trennung von Johanna Mutz
+3 Bl√§tter / Serie - Befreiung nach der Trennung von Johanna Mutz
 Beschreibung 
 -
 Zustand       
@@ -24,7 +23,7 @@ Atelier
 Foto          
 Ed Restle
 Ausstellung   
-Galerie Möring, Zeichnung und Druckgrafik, Wiesbaden, 1972
+Galerie M√∂ring, Zeichnung und Druckgrafik, Wiesbaden, 1972
 Bibliographie
 -
  

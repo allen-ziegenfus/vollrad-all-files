@@ -170,7 +170,7 @@
         ]
     },
     {
-        "Bibliographie": "-Inv. Nr.,G0001Titel,AgressionskonzentrationJahr,1969Werkgruppe,GrafikMaterial,KaltnadelradierungMasse,11,5 x 10,5 cmSignatur,unten rechtsAuflage,3 Bl\u00e4tter / Serie - Befreiung nach der Trennung von Johanna MutzBeschreibung,-Zustand,sehr gutStandort,AtelierFoto,Ed RestleAusstellung,Galerie M\u00f6ring, Zeichnung und Druckgrafik, Wiesbaden, 1972Bibliographie,-",
+        "Bibliographie": "-Inv. Nr.,G0001Titel,AgressionskonzentrationJahr,1969Werkgruppe,GrafikMaterial,KaltnadelradierungMaße,11,5 x 10,5 cmSignatur,unten rechtsAuflage,3 Bl\u00e4tter / Serie - Befreiung nach der Trennung von Johanna MutzBeschreibung,-Zustand,sehr gutStandort,AtelierFoto,Ed RestleAusstellung,Galerie M\u00f6ring, Zeichnung und Druckgrafik, Wiesbaden, 1972Bibliographie,-",
         "Bild": [
             {
                 "url": "https://raw.githubusercontent.com/allen-ziegenfus/vollradkutscher/master/images/G0001a.gif"
@@ -1471,7 +1471,7 @@
     {
         "Inv. Nr.": "G0001Titel,Agressionskonzentration",
         "Jahr": "1969",
-        "Werkgruppe": "GrafikMaterial,KaltnadelradierungMasse11,5 x 10,5 cm",
+        "Werkgruppe": "GrafikMaterial,KaltnadelradierungMaße11,5 x 10,5 cm",
         "Signatur": "unten rechts",
         "Auflage": "3 Bl\u00e4tter / Serie - Befreiung nach der Trennung von Johanna Mutz",
         "Beschreibung": "-",

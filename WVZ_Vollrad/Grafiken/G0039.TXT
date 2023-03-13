@@ -1,6 +1,5 @@
 Inv. Nr.      
-
-
+G0039
 Titel         
 Das Zeug wie dieses verkauft sich nicht
 Jahr          
@@ -8,7 +7,7 @@ Jahr
 Werkgruppe    
 Grafik
 Material      
-€tzradierung und Kaltnadelradierung kombiniert
+Ätzradierung und Kaltnadelradierung kombiniert
 Maße          
 23 x 26 cm
 Signatur      
