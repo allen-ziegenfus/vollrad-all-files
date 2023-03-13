@@ -1,0 +1,1 @@
+find . -name \*.TXT -exec ./convert-text-file.sh {} \;
